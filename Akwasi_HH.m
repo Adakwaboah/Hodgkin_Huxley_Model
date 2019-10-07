@@ -17,7 +17,7 @@ gNa_max = 120  ; % sodium saturation conductance, mS/cm2
 %%
 EK = -74.7 %potassium Nernst potential, mV
 gK_max = 36 %potassium saturation conductance, mS/cm2
-gK_max = 36
+%gK_max = 36
 EL = -43.256 %leak Nernst potential, calculated using the goldmann
 gL_max = 0.3 % leakage saturation conductance, mS/cm2
 Cm = 1 %membrane capacitance 1uF/cm2
